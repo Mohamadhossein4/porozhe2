@@ -1,0 +1,11 @@
+
+*{passing:0;margin: 0;}
+#wrapper{margin: 0 auto;background-color:lightpink;width: 1200px; height: 900px;}
+#row1_col1{background-color:pink; width: 45%; float: left;border: 1px solid mediumpurple;}
+#row1_col2{background-color: hotpink;width: 50%;float: right;border: 1px solid rebeccapurple;}
+table{margin: 40px auto; background-color:palevioletred;width: 80%;}
+table tr:first-child{background-color: darkslateblue;}
+form{margin: 20px 25%;}
+input[type="submit"]{ background_color:lightblue;width: 200px;height: 40px;margin-top:20px;  }
+input[type="submit"]{height: 35px;}
+table tr,td{text-align: center;}
