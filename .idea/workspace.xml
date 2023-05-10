@@ -36,6 +36,11 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\porozhe" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1683734091625</updated>
       <workItem from="1683734093493" duration="40000" />
-      <workItem from="1683734164782" duration="1522000" />
+      <workItem from="1683734164782" duration="4146000" />
     </task>
     <servers />
   </component>
